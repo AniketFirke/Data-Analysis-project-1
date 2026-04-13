@@ -47,7 +47,7 @@ CAPM/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/capm-calculator.git
+git clone https://github.com/AniketFirke/Data-Analysis-project-1
 cd capm-calculator
 ```
 

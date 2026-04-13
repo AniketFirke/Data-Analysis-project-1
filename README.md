@@ -139,5 +139,6 @@ Feel free to fork this project and improve it. Contributions are welcome!
 ## 📧 Contact
 
 **Aniket Firke**
+<br>
 💼 Open to Data Analyst / Cloud Engineer (AWS+DevOps) roles
 
